@@ -8,7 +8,7 @@ from tkinter import ttk
 from UserMethods.UserLogin import login
 from UserMethods.UserSignUp import signup
 from UserMethods.GuestUser import guest_login
-from GuiApp.main_gui import main_apps
+from GuiApp.main_gui import main_app
 
 def launch():
     root = tk.Tk()
